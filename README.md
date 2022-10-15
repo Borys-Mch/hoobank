@@ -1,6 +1,6 @@
 # Modern landing page HooBank
 
-<img src="https://lh3.googleusercontent.com/drive-viewer/AJc5JmT32lJKHfChrjDyAL2hmCO4aqqdQPPGSwhf2yq4kHg8rGzztbQy-CCapiciClHZCfnSqpCvQVQ=w1920-h983" class="ndfHFb-c4YZDc-HiaYvf-RJLb9c" alt="Displaying Screenshot.png" aria-hidden="true">
+<img src="https://raw.githubusercontent.com/Borys-Mch/hoobank/master/Screenshot.png" alt="Displaying Screenshot.png">
 
 ## Figma
 
